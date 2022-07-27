@@ -1,7 +1,5 @@
 #include<stdio.h>
 
-
-
 int main(int argc, char *argv[])
 {
 	int x=15;
@@ -10,7 +8,7 @@ int main(int argc, char *argv[])
 	x*=x;
 	x+=7;
 	
-	printf("xÀÇ ÃÖÁ¾ °ª : %d, %d, %.1f\n", x, y, z);
+	printf("xÃ€Ã‡ ÃƒÃ–ÃÂ¾ Â°Âª : %d, %d, %.1f\n", x, y, z);
 	
 	return 0;
 }
