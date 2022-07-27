@@ -8,10 +8,10 @@ int main(int argc, char *argv[])
 	
 	switch(n%7){
 		case 0:
-			printf("7ÀÇ ¹è¼öÀÔ´Ï´Ù.\n");
+			printf("7ì˜ ë°°ìˆ˜ì…ë‹ˆë‹¤.\n");
 			break;
 		default:
-			printf("7ÀÇ ¹è¼ö°¡ ¾Æ´Õ´Ï´Ù.\n");
+			printf("7ì˜ ë°°ìˆ˜ê°€ ì•„ë‹™ë‹ˆë‹¤.\n");
 			break;
 	}
 	
