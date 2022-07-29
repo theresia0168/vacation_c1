@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 typedef struct point{
-	int x, y;   // ¸â¹öº¯¼ö 
+	int x, y;   // ë©¤ë²„ë³€ìˆ˜
 }POINT;
 
 //typedef struct point POINT;
